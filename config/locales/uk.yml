@@ -1194,7 +1194,7 @@ uk:
     return_number: "Номер повернення"
     return_quantity: "повернена кількість"
     returned: "Повернуті"
-    returns:
+    returns: 'Повернення'
     review: "Огляд"
     risk: "Ризик"
     risk_analysis: "Аналіз ризиків"
